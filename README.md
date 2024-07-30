@@ -27,6 +27,7 @@ DoctorPatientSystem/
 │   ├── Patient.cpp       # Patient class implementation
 │   ├── Schedule.cpp      # Schedule class implementation
 │   └── main.cpp          # Main program file
+├── LICENSE               # License file
 ├── Makefile              # Makefile for building the project
 └── README.md             # Project documentation
 ```
