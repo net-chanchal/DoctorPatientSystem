@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/
+doctor_patient_system
+src/*.o
